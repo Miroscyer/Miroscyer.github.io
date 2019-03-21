@@ -11,8 +11,8 @@ github_repo: "https://github.com/miroscyer/miroscyer.github.io" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "可以输，但没必要"
-sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-about-description: 
+#sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
